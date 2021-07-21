@@ -1,4 +1,4 @@
-Round-1_SLOPE-2 code is associated to find  a feasible solution of the underdetermind linear system equations with bounded variables, that is,
+Round-3_SLOPE-2 code is associated to find  a feasible solution of the underdetermind linear system equations with bounded variables, that is,
 argmin    ⁡∑t_i 
  s.t.     t_i≥0,                          i=1,…,n,
           Sv=0,   
