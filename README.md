@@ -4,7 +4,9 @@ argmin    ⁡∑t_i
           Sv=0,   
           || [V_(i,1),…,V_(i,d)]||_2≤t_i, ,             i=1,…,n,
           L≤V≤U.
-
+Execution process: 'please copy the code in matlab.'         
+How to use:
 Please set your file name, your sheet and your data range for matrix S on lines 5-7.
 Please set  your data range for lower bound matrix L on the line 17.
 Please set  your data range for lower bound matrix U on the line 25.
+writers: Nasrin Mirhoseini and Maria Tufan.
